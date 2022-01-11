@@ -1,1 +1,2 @@
+BOOTLOADER = atmel-dfu
 BACKLIGHT_ENABLE = no
